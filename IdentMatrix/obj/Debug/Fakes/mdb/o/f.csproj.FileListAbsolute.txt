@@ -1,0 +1,11 @@
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\MatrixDB.Fakes.xml
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\MatrixDB.Fakes.dll
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\MatrixDB.Fakes.pdb
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\MatrixDB.dll
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\MatrixDB.pdb
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\o\MatrixDB.Fakes.dll
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\o\MatrixDB.Fakes.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\FileHelpers.dll
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\IdentMatrix\IdentMatrix\obj\Debug\Fakes\mdb\b\FileHelpers.xml

@@ -1,0 +1,9 @@
+c:\users\aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\bin\Debug\MatrixDB.dacpac
+c:\users\aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\bin\Debug\MatrixDB.dll
+c:\users\aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\bin\Debug\MatrixDB.pdb
+c:\users\aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\MatrixDB.dll
+c:\users\aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\MatrixDB.pdb
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\Model.xml
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\refactor.xml
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\postdeploy.sql
+C:\Users\Aaron\documents\visual studio 2013\Projects\IdentMatrix\MatrixDB\obj\Debug\predeploy.sql
